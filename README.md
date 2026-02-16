@@ -8,6 +8,9 @@ I am a Computer Science graduate specializing in Artificial Intelligence from th
 ## 🚀 Featured Projects
 
 ### 📈 [Air Quality Visualization & Prediction](https://github.com/JKalthoom/Senior-Project-Air-Quality-AI) 
+
+![Air Quality Prediction](Images/AQI.png)
+
 **Dataset size:** 11.3 million records <br>
 **Objective:** Forecast air quality indicators using historical environmental data. <br>
 
@@ -25,6 +28,9 @@ Python, TensorFlow, Pandas, NumPy, Matplotlib
 
 
 ### 💻 [Employee Performance Dashboard](https://github.com/JKalthoom/dsnd-dashboard-project)
+
+![Dashboard Preview](Images/DSND-Dashboard-Project.png)
+
 **Objective:** Built an interactive dashboard to monitor employee performance and predict recruitment risk using historical event data. <br>
 
 **What I did:**
