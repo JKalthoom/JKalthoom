@@ -63,9 +63,23 @@ Python, TensorFlow, Pandas, NumPy, Matplotlib
 
 ---
 
-## 📊 Power BI dashboard
+## 📊 Power BI dashboards
 
-### [Power BI Business Intelligence Dashboard](https://github.com/JKalthoom/Creating-Visualizations-with-Power-Bl)
+### 🐶🐱 [Waggle Dashboard](https://github.com/JKalthoom/Creating-Visualizations-with-Power-Bl)
+![Waggle Dashboard Preview](Images/Waggle.png)
+
+**Objective:** Develop an executive-level Power BI dashboard to compare Lapdog and Lapcat device performance, analyze customer satisfaction, and provide demographic insights to support product launch decisions.
+
+**What I did:**
+- Analyzed device activity, satisfaction, and demographic data using the provided data model.
+- Built interactive visualizations to compare average daily steps and customer satisfaction between devices.
+- Designed a multi-page dashboard highlighting executive KPIs, demographic insights, and household trends.
+- Implemented slicers, bookmarks, and navigation buttons to enable dynamic filtering and improve user interaction.
+- Applied branding guidelines and best practices in layout and visual hierarchy for executive presentation.
+
+**Tech stack:** Power BI, DAX, Data Modeling, Data Visualization, Business Intelligence, Interactive Dashboards
+
+**Impact:** Delivered a boardroom-ready dashboard that enabled stakeholders to evaluate product viability and make data-driven business decisions.
 
 ---
 
