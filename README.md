@@ -63,6 +63,11 @@ Python, TensorFlow, Pandas, NumPy, Matplotlib
 
 ---
 
+## 📊 Power BI dashboard
+
+
+---
+
 ## 🛠️ Technical Toolbox
 **Programming:** Python, SQL, Java, C, Git/GitHub, OOP, LaTeX. <br>
 **AI & ML:** Deep Learning, NLP, Multi-Agent Systems, Predictive Modeling. <br>
