@@ -65,6 +65,7 @@ Python, TensorFlow, Pandas, NumPy, Matplotlib
 
 ## 📊 Power BI dashboard
 
+### [Power BI Business Intelligence Dashboard](https://github.com/JKalthoom/Creating-Visualizations-with-Power-Bl)
 
 ---
 
