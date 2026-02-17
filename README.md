@@ -5,6 +5,14 @@ I am a Computer Science graduate specializing in Artificial Intelligence from th
 
 ---
 
+## 📑 Certifications
+
+* Data Science Nanodegree — Udacity — 2024
+* Power BI Data Analysis Certificate — Udacity — 2025
+* Google AI Essentials Certificate — Google — 2025
+
+---
+
 ## 🚀 Featured Projects
 
 ### 📈 [Air Quality Visualization & Prediction](https://github.com/JKalthoom/Senior-Project-Air-Quality-AI) 
