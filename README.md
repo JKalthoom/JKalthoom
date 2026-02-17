@@ -7,9 +7,9 @@ I am a Computer Science graduate specializing in Artificial Intelligence from th
 
 ## 📑 Certifications
 
-* Data Science Nanodegree — Udacity — 2025
-* Power BI Data Analysis Certificate — Udacity — 2025
-* Google AI Essentials Certificate — Google — 2025
+* [Data Science Nanodegree — Udacity — 2025](Certifications/Data_Science_Nanodegree.pdf)
+* [Power BI Data Analysis Certificate — Udacity — 2025](Certifications/PowerBI_Certificate.pdf)
+* [Google AI Essentials Certificate — Google — 2025](Certifications/Google_AI_Essentials.pdf)
 
 ---
 
